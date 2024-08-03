@@ -1,7 +1,0 @@
-metrics:
-  - 'mse'
-  - 'mae'
-  - 'rmse'
-  - 'sharpe_ratio'
-  - 'max_drawdown'
-risk_free_rate: 0.02
