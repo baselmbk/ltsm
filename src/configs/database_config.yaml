@@ -1,0 +1,5 @@
+MONGO_URL: 'mongodb://localhost:27017'
+BITSTAMP_OHLCV_DB: 'bitstamp_ohlcv'
+BINANCE_OHLCV_DB: 'binance_ohlcv'
+DEFAULT_SYMBOL: 'BTCUSD'
+DEFAULT_TIMEFRAME: '1h'

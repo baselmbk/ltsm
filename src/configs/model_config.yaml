@@ -1,0 +1,6 @@
+model_type: 'LSTM'
+input_shape: [30, 10]  # 30 time steps, 10 features
+output_size: 1
+neurons: 50
+dropout: 0.2
+learning_rate: 0.001

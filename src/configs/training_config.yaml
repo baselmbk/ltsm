@@ -1,0 +1,6 @@
+epochs: 100
+batch_size: 32
+validation_split: 0.2
+test_size: 0.2
+sequence_length: 30
+model_save_path: "models"
